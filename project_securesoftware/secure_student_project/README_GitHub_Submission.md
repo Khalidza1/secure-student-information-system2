@@ -21,4 +21,4 @@ This project is an Online Secure Student Information System designed to manage s
 - Access Control Principles
 /Users/khalidtaz/Desktop/README_GitHub_Submission.md
 ## GitHub Repository
-https://github.com/Khalidza1/secure-student-information-system
+https://github.com/Khalidza1/secure-student-information-system2/blob/main/README.md
